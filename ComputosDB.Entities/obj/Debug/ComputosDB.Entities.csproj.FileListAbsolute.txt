@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\bin\Debug\ComputosDB.Entities.dll.config
+C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\bin\Debug\ComputosDB.Entities.dll
+C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\bin\Debug\ComputosDB.Entities.pdb
+C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\bin\Debug\EntityFramework.dll
+C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\bin\Debug\EntityFramework.xml
+C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\obj\Debug\ComputosDB.Entities.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\obj\Debug\ComputosDB.Entities.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\obj\Debug\ComputosDB.Entities.csproj.CopyComplete
+C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\obj\Debug\ComputosDB.Entities.dll
+C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\obj\Debug\ComputosDB.Entities.pdb
