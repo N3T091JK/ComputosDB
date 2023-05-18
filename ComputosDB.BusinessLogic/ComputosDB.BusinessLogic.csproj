@@ -52,11 +52,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="ComputadorasBL.cs" />
+    <Compile Include="DetallecomputadoraBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ComputosDB.DataAccess\ComputosDB.DataAccess.csproj">
+      <Project>{677df6c7-a8a7-4d52-a3be-e2640da83b1a}</Project>
+      <Name>ComputosDB.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ComputosDB.Entities\ComputosDB.Entities.csproj">
+      <Project>{110ee3d9-3c9b-4c7f-9bf8-53ccd22a8f21}</Project>
+      <Name>ComputosDB.Entities</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

@@ -52,16 +52,24 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AppContext\AppContextDBComputo.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Computadoras.cs" />
     <Compile Include="Detallecomputadora.cs" />
+    <Compile Include="Migrations\202305172350041_DBComputo.cs" />
+    <Compile Include="Migrations\202305172350041_DBComputo.designer.cs">
+      <DependentUpon>202305172350041_DBComputo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202305172350041_DBComputo.resx">
+      <DependentUpon>202305172350041_DBComputo.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
