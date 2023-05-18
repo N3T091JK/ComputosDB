@@ -10,3 +10,5 @@ C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\obj\Debug\ComputosDB.Entities
 C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\obj\Debug\ComputosDB.Entities.csproj.CopyComplete
 C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\obj\Debug\ComputosDB.Entities.dll
 C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\obj\Debug\ComputosDB.Entities.pdb
+C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\obj\Debug\ComputosDB.Entities.Migrations.DBComputo.resources
+C:\Users\HOME\Desktop\Computos\ComputosDB.Entities\obj\Debug\ComputosDB.Entities.csproj.GenerateResource.cache
